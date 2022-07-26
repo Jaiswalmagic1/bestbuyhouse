@@ -1,0 +1,1 @@
+<p><?php sprintf(__('Enter your Amazon Associates Tracking IDs below. Not sure where to find these? <a href="%s" target="_blank">Watch our videos here</a>.', 'easyazon'), 'https://easyazon.com/how-to/'); ?></p>

@@ -1,0 +1,243 @@
+[
+    {
+        "key": "All",
+        "name": "All Departments",
+        "node": "",
+        "sort": []
+    },
+    {
+        "key": "Baby",
+        "name": "Baby",
+        "node": "4851510051",
+        "sort": [
+            "salesrank",
+            "psrank",
+            "titlerank",
+            "-price",
+            "price"
+        ]
+    },
+    {
+        "key": "Beauty",
+        "name": "Beauty",
+        "node": "4851567051",
+        "sort": [
+            "salesrank",
+            "-launch-date",
+            "sale-flag",
+            "pmrank",
+            "price",
+            "-price"
+        ]
+    },
+    {
+        "key": "Books",
+        "name": "Books",
+        "node": "4851626051",
+        "sort": [
+            "relevancerank",
+            "salesrank",
+            "reviewrank",
+            "pricerank",
+            "inverse-pricerank",
+            "daterank",
+            "titlerank",
+            "-titlerank",
+            "-unit-sales",
+            "price",
+            "-price",
+            "-publication_date"
+        ]
+    },
+    {
+        "key": "Electronics",
+        "name": "Electronics",
+        "node": "4851799051",
+        "sort": [
+            "salesrank",
+            "price",
+            "-price",
+            "titlerank",
+            "pmrank",
+            "reviewrank"
+        ]
+    },
+    {
+        "key": "Fashion",
+        "name": "Clothing & Shoes",
+        "node": "4851856051",
+        "sort": [
+            "relevancerank",
+            "popularity-rank",
+            "price",
+            "-price",
+            "reviewrank",
+            "launch-date"
+        ]
+    },
+    {
+        "key": "HealthPersonalCare",
+        "name": "Health, Household & Personal Care",
+        "node": "4851917051",
+        "sort": [
+            "pmrank",
+            "salesrank",
+            "pricerank",
+            "inverseprice",
+            "launch-date",
+            "sale-flag"
+        ]
+    },
+    {
+        "key": "KindleStore",
+        "name": "Kindle Store",
+        "node": "2490359051",
+        "sort": [
+            "relevancerank",
+            "salesrank",
+            "-edition-sales-velocity",
+            "price",
+            "-price",
+            "reviewrank",
+            "daterank"
+        ]
+    },
+    {
+        "key": "MobileApps",
+        "name": "Apps & Games",
+        "node": "2544160051",
+        "sort": [
+            "relevancerank",
+            "pmrank",
+            "price",
+            "-price",
+            "reviewrank",
+            "reviewrank_authority"
+        ]
+    },
+    {
+        "key": "Movies",
+        "name": "Movies & TV",
+        "node": "4852264051",
+        "sort": [
+            "relevancerank",
+            "featured",
+            "price",
+            "-price",
+            "reviewrank",
+            "-release-date"
+        ]
+    },
+    {
+        "key": "Music",
+        "name": "CDs & Vinyl",
+        "node": "4852330051",
+        "sort": [
+            "psrank",
+            "salesrank",
+            "price",
+            "-price",
+            "titlerank",
+            "-titlerank",
+            "artistrank",
+            "orig-rel-date",
+            "-orig-rel-date",
+            "release-date",
+            "releasedate",
+            "-releasedate",
+            "relevancerank"
+        ]
+    },
+    {
+        "key": "OfficeProducts",
+        "name": "Stationery & Office Products",
+        "node": "4852445051",
+        "sort": [
+            "pmrank",
+            "salesrank",
+            "price",
+            "-price",
+            "reviewrank",
+            "titlerank"
+        ]
+    },
+    {
+        "key": "PCHardware",
+        "name": "Computers",
+        "node": "4851683051",
+        "sort": [
+            "psrank",
+            "salesrank",
+            "price",
+            "-price",
+            "titlerank"
+        ]
+    },
+    {
+        "key": "Software",
+        "name": "Software",
+        "node": "4852502051",
+        "sort": [
+            "pmrank",
+            "salesrank",
+            "price",
+            "-price",
+            "titlerank"
+        ]
+    },
+    {
+        "key": "SportingGoods",
+        "name": "Sports, Fitness & Outdoors",
+        "node": "4852559051",
+        "sort": [
+            "relevancerank",
+            "relevance-fs-rank",
+            "price",
+            "-price",
+            "salesrank",
+            "pricerank",
+            "inverseprice",
+            "launch-date",
+            "sale-flag",
+            "reviewrank_authority"
+        ]
+    },
+    {
+        "key": "Tools",
+        "name": "Home Improvement",
+        "node": "4852033051",
+        "sort": [
+            "pmrank",
+            "salesrank",
+            "price",
+            "-price",
+            "titlerank",
+            "-titlerank"
+        ]
+    },
+    {
+        "key": "Toys",
+        "name": "Toys & Games",
+        "node": "4852617051",
+        "sort": [
+            "pmrank",
+            "salesrank",
+            "price",
+            "-price",
+            "titlerank",
+            "-age-min"
+        ]
+    },
+    {
+        "key": "VideoGames",
+        "name": "Video Games",
+        "node": "4852675051",
+        "sort": [
+            "pmrank",
+            "salesrank",
+            "price",
+            "-price",
+            "titlerank"
+        ]
+    }
+]

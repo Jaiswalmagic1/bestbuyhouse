@@ -1,0 +1,1391 @@
+# Copyright (C) 2021 EasyAzon
+# This file is distributed under the same license as the EasyAzon plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: EasyAzon 5.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easyazon\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-06T01:33:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: easyazon\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: addition/components/localization/specs/specs.php:114
+#: components/editor/editor.php:42
+#: components/editor/editor.php:49
+#: components/editor/editor.php:58
+#: components/editor/editor.php:76
+#: components/popup/popup.php:63
+#: components/settings/settings.php:54
+#: components/settings/views/settings.php:2
+msgid "EasyAzon"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://easyazon.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Quickly and easily insert Amazon affiliate links into your site's content."
+msgstr ""
+
+#: addition/components/cloaking/cloaking.php:53
+msgid "The item in question could not be found. Please contact the site administrator with the following information:"
+msgstr ""
+
+#: addition/components/cloaking/cloaking.php:53
+msgid "Identifier: <code>%s</code>"
+msgstr ""
+
+#: addition/components/cloaking/cloaking.php:53
+msgid "Locale: <code>%s</code>"
+msgstr ""
+
+#: addition/components/localization/specs/specs.php:41
+msgid "EasyAzon - Localization"
+msgstr ""
+
+#: addition/components/localization/specs/specs.php:41
+#: addition/components/popup-states/call-to-action/views/state.php:88
+#: addition/components/popup-states/image/views/state.php:94
+#: addition/components/popup-states/info-block/views/state.php:93
+#: addition/components/popup-states/link/views/fields.php:24
+#: addition/components/popup-states/search-results/views/state.php:58
+#: addition/components/settings-sections/localization/localization.php:43
+msgid "Localization"
+msgstr ""
+
+#: addition/components/localization/specs/specs.php:95
+msgid "Localization saved."
+msgstr ""
+
+#: addition/components/localization/specs/specs.php:103
+msgid "Localization deleted."
+msgstr ""
+
+#: addition/components/localization/specs/specs.php:139
+msgid "Select Product"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:4
+msgid "Localize Product"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:5
+msgid "Manage Localizations"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:10
+msgid "For each locale listed below, enter the identifier for the product you would like to use for that locale."
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:12
+msgid "You can also copy and paste a URL as long as a part of the URL looks like <code>/dp/IDENTIFIER/</code>."
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:14
+msgid "The mapping you are performing is omnidirectional. If you localize a product from the US locale to the UK locale, that product will also be localized in reverse."
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:16
+msgid "Please note:"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:16
+msgid "If you have previously localized a product, the earliest localization will be used when that product is being mapped."
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:25
+msgid "Search for Product"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-edit.php:42
+msgid "Save Localization"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:3
+msgid "Localized Products"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:4
+msgid "Add New"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:9
+msgid "Please Note:"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:9
+msgid "You can hover over any identifier to see the full product name."
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:19
+#: addition/components/localization/specs/views/specs-manage.php:95
+msgid "Go to the first page"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:20
+#: addition/components/localization/specs/views/specs-manage.php:96
+#: components/popup-states/search/views/state.php:58
+#: components/popup-states/search/views/state.php:102
+msgid "Go to the previous page"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:22
+msgid "Select Page"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:23
+msgid "Current page"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:24
+#: addition/components/localization/specs/views/specs-manage.php:99
+#: components/popup-states/search/views/state.php:60
+#: components/popup-states/search/views/state.php:104
+msgid "of"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:27
+#: addition/components/localization/specs/views/specs-manage.php:102
+#: components/popup-states/search/views/state.php:62
+#: components/popup-states/search/views/state.php:106
+msgid "Go to the next page"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:28
+#: addition/components/localization/specs/views/specs-manage.php:103
+msgid "Go to the last page"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:38
+#: addition/components/localization/specs/views/specs-manage.php:50
+msgid "Actions"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:39
+msgid "Products"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:43
+#: addition/components/localization/specs/views/specs-manage.php:52
+msgid "%s"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:60
+msgid "There are currently no items localized"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:68
+msgid "Edit"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:69
+msgid "Delete"
+msgstr ""
+
+#: addition/components/localization/specs/views/specs-manage.php:77
+msgid "N/A"
+msgstr ""
+
+#: addition/components/popovers/popovers.php:58
+msgid "Could not find product data."
+msgstr ""
+
+#: addition/components/popovers/popovers.php:77
+msgid "Loading product data."
+msgstr ""
+
+#: addition/components/popovers/views/popover.php:23
+#: addition/components/shortcodes/info-block/templates/image.php:27
+#: lib/amazon.php:68
+msgid "List Price"
+msgstr ""
+
+#: addition/components/popovers/views/popover.php:29
+msgid "Current Price"
+msgstr ""
+
+#: addition/components/popovers/views/popover.php:35
+msgid "Saved"
+msgstr ""
+
+#: addition/components/popovers/views/popover.php:47
+msgid "Prices are accurate as of %s"
+msgstr ""
+
+#: addition/components/popup-states-additions/popup-states-additions.php:62
+msgid "Use \"Insert Markup\" if you don't want to use shortcodes for your EasyAzon links. Any global changes to your link settings will not affect your non shortcode links."
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/call-to-action.php:45
+msgid "CTA Link"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:2
+msgid "Call to Action Options"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:11
+#: addition/components/popup-states/image/views/state.php:11
+#: addition/components/popup-states/info-block/views/state.php:11
+#: components/popup-states/link/views/state.php:11
+msgid "Product"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:18
+msgid "Button"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:25
+#: addition/components/popup-states/image/views/state.php:31
+#: addition/components/popup-states/info-block/views/state.php:30
+msgid "Alignment"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:28
+#: addition/components/popup-states/image/views/state.php:34
+#: addition/components/popup-states/info-block/views/state.php:33
+#: components/popup/popup.php:64
+msgid "None"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:29
+#: addition/components/popup-states/image/views/state.php:35
+#: addition/components/popup-states/info-block/views/state.php:34
+msgid "Left"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:30
+#: addition/components/popup-states/image/views/state.php:36
+#: addition/components/popup-states/info-block/views/state.php:35
+msgid "Center"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:31
+#: addition/components/popup-states/image/views/state.php:37
+#: addition/components/popup-states/info-block/views/state.php:36
+msgid "Right"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:37
+#: addition/components/popup-states/image/views/state.php:43
+#: addition/components/popup-states/info-block/views/state.php:42
+#: addition/components/popup-states/search-results/views/state.php:18
+#: components/popup-states/link/views/state.php:25
+#: components/settings-sections/links/links.php:43
+msgid "New Window"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:40
+#: addition/components/popup-states/call-to-action/views/state.php:51
+#: addition/components/popup-states/call-to-action/views/state.php:69
+#: addition/components/popup-states/call-to-action/views/state.php:80
+#: addition/components/popup-states/call-to-action/views/state.php:91
+#: addition/components/popup-states/image/views/state.php:46
+#: addition/components/popup-states/image/views/state.php:57
+#: addition/components/popup-states/image/views/state.php:75
+#: addition/components/popup-states/image/views/state.php:86
+#: addition/components/popup-states/image/views/state.php:97
+#: addition/components/popup-states/info-block/views/state.php:21
+#: addition/components/popup-states/info-block/views/state.php:45
+#: addition/components/popup-states/info-block/views/state.php:56
+#: addition/components/popup-states/info-block/views/state.php:74
+#: addition/components/popup-states/info-block/views/state.php:85
+#: addition/components/popup-states/info-block/views/state.php:96
+#: addition/components/popup-states/link/views/fields.php:5
+#: addition/components/popup-states/link/views/fields.php:16
+#: addition/components/popup-states/link/views/fields.php:27
+#: addition/components/popup-states/link/views/fields.php:38
+#: addition/components/popup-states/search-results/views/state.php:21
+#: addition/components/popup-states/search-results/views/state.php:32
+#: addition/components/popup-states/search-results/views/state.php:50
+#: addition/components/popup-states/search-results/views/state.php:61
+#: addition/lib/amazon.php:324
+#: components/popup-states/link/views/state.php:28
+#: components/popup-states/link/views/state.php:39
+msgid "Default"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:41
+#: addition/components/popup-states/call-to-action/views/state.php:52
+#: addition/components/popup-states/call-to-action/views/state.php:70
+#: addition/components/popup-states/call-to-action/views/state.php:81
+#: addition/components/popup-states/call-to-action/views/state.php:92
+#: addition/components/popup-states/image/views/state.php:47
+#: addition/components/popup-states/image/views/state.php:58
+#: addition/components/popup-states/image/views/state.php:76
+#: addition/components/popup-states/image/views/state.php:87
+#: addition/components/popup-states/image/views/state.php:98
+#: addition/components/popup-states/info-block/views/state.php:46
+#: addition/components/popup-states/info-block/views/state.php:57
+#: addition/components/popup-states/info-block/views/state.php:75
+#: addition/components/popup-states/info-block/views/state.php:86
+#: addition/components/popup-states/info-block/views/state.php:97
+#: addition/components/popup-states/link/views/fields.php:6
+#: addition/components/popup-states/link/views/fields.php:17
+#: addition/components/popup-states/link/views/fields.php:28
+#: addition/components/popup-states/link/views/fields.php:39
+#: addition/components/popup-states/search-results/views/state.php:22
+#: addition/components/popup-states/search-results/views/state.php:33
+#: addition/components/popup-states/search-results/views/state.php:51
+#: addition/components/popup-states/search-results/views/state.php:62
+#: components/popup-states/link/views/state.php:29
+#: components/popup-states/link/views/state.php:40
+msgid "Yes"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:42
+#: addition/components/popup-states/call-to-action/views/state.php:53
+#: addition/components/popup-states/call-to-action/views/state.php:71
+#: addition/components/popup-states/call-to-action/views/state.php:82
+#: addition/components/popup-states/call-to-action/views/state.php:93
+#: addition/components/popup-states/image/views/state.php:48
+#: addition/components/popup-states/image/views/state.php:59
+#: addition/components/popup-states/image/views/state.php:77
+#: addition/components/popup-states/image/views/state.php:88
+#: addition/components/popup-states/image/views/state.php:99
+#: addition/components/popup-states/info-block/views/state.php:47
+#: addition/components/popup-states/info-block/views/state.php:58
+#: addition/components/popup-states/info-block/views/state.php:76
+#: addition/components/popup-states/info-block/views/state.php:87
+#: addition/components/popup-states/info-block/views/state.php:98
+#: addition/components/popup-states/link/views/fields.php:7
+#: addition/components/popup-states/link/views/fields.php:18
+#: addition/components/popup-states/link/views/fields.php:29
+#: addition/components/popup-states/link/views/fields.php:40
+#: addition/components/popup-states/search-results/views/state.php:23
+#: addition/components/popup-states/search-results/views/state.php:34
+#: addition/components/popup-states/search-results/views/state.php:52
+#: addition/components/popup-states/search-results/views/state.php:63
+#: components/popup-states/link/views/state.php:30
+#: components/popup-states/link/views/state.php:41
+msgid "No"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:48
+#: addition/components/popup-states/image/views/state.php:54
+#: addition/components/popup-states/info-block/views/state.php:53
+#: addition/components/popup-states/search-results/views/state.php:29
+#: components/popup-states/link/views/state.php:36
+#: components/settings-sections/links/links.php:47
+msgid "No Follow"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:59
+#: addition/components/popup-states/image/views/state.php:65
+#: addition/components/popup-states/info-block/views/state.php:64
+#: addition/components/popup-states/search-results/views/state.php:40
+#: components/popup-states/link/views/state.php:47
+msgid "Tracking ID"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:66
+#: addition/components/popup-states/image/views/state.php:72
+#: addition/components/popup-states/info-block/views/state.php:71
+#: addition/components/popup-states/link/views/fields.php:2
+#: addition/components/settings-sections/links/links.php:37
+msgid "Add to Cart"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:77
+#: addition/components/popup-states/image/views/state.php:83
+#: addition/components/popup-states/info-block/views/state.php:82
+#: addition/components/popup-states/link/views/fields.php:13
+#: addition/components/popup-states/search-results/views/state.php:47
+msgid "Cloak"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:105
+#: addition/components/popup-states/image/views/state.php:111
+#: addition/components/popup-states/info-block/views/state.php:110
+#: addition/components/popup-states/search-results/views/state.php:75
+#: components/popup-states/link/views/state.php:60
+#: components/popup-states/search/search.php:56
+msgid "Insert"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:107
+#: addition/components/popup-states/image/views/state.php:113
+#: addition/components/popup-states/info-block/views/state.php:112
+#: addition/components/popup-states/link/link.php:37
+#: addition/components/popup-states/search-results/views/state.php:77
+msgid "Insert Markup"
+msgstr ""
+
+#: addition/components/popup-states/call-to-action/views/state.php:111
+#: addition/components/popup-states/image/views/state.php:117
+#: addition/components/popup-states/info-block/views/state.php:116
+#: addition/components/popup-states/search-results/views/state.php:81
+#: components/popup-states/link/views/state.php:64
+msgid "Cancel"
+msgstr ""
+
+#: addition/components/popup-states/image/image.php:45
+msgid "Image Link"
+msgstr ""
+
+#: addition/components/popup-states/image/views/state.php:2
+msgid "Image Options"
+msgstr ""
+
+#: addition/components/popup-states/image/views/state.php:18
+#: components/popup-states/search/search.php:54
+msgid "Image"
+msgstr ""
+
+#: addition/components/popup-states/image/views/state.php:21
+msgid "Amazon Images"
+msgstr ""
+
+#: addition/components/popup-states/info-block/info-block.php:45
+msgid "Info Block"
+msgstr ""
+
+#: addition/components/popup-states/info-block/views/state.php:2
+msgid "Info Block Options"
+msgstr ""
+
+#: addition/components/popup-states/info-block/views/state.php:18
+msgid "Template"
+msgstr ""
+
+#: addition/components/popup-states/link/views/fields.php:35
+#: addition/components/settings-sections/links/links.php:49
+msgid "Product Popups"
+msgstr ""
+
+#: addition/components/popup-states/search-results/search-results.php:45
+msgid "Link to the search results page for"
+msgstr ""
+
+#: addition/components/popup-states/search-results/views/state.php:2
+msgid "Search Results Options"
+msgstr ""
+
+#: addition/components/popup-states/search-results/views/state.php:11
+#: components/popup-states/link/views/state.php:18
+msgid "Link Text"
+msgstr ""
+
+#: addition/components/popup-states/search/views/fields.php:2
+msgid "Search Index"
+msgstr ""
+
+#: addition/components/popup-states/search/views/fields.php:9
+msgid "Minimum Price"
+msgstr ""
+
+#: addition/components/popup-states/search/views/fields.php:12
+#: addition/components/popup-states/search/views/fields.php:20
+msgid "This value will be interpreted in the context of the locale you are searching within (e.g. $ in the United States)"
+msgstr ""
+
+#: addition/components/popup-states/search/views/fields.php:17
+msgid "Maximum Price"
+msgstr ""
+
+#: addition/components/popup-states/search/views/fields.php:25
+msgid "Sort"
+msgstr ""
+
+#: addition/components/settings-sections/associates/views/section-after.php:1
+msgid "With EasyAzon, you can enter multiple Tracking IDs separated by commas."
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:41
+msgid "Cloak Links"
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:45
+msgid "Cloaking Prefix"
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:53
+msgid "Info Block Template"
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:64
+msgid "I want EasyAzon to have my links add a product to a visitor's Amazon cart"
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:65
+#: addition/components/settings-sections/localization/localization.php:72
+msgid "Potential Extra Money Maker"
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:65
+msgid "When a visitor adds an item to their shopping cart after clicking through your link you now have an extra 89 day window to earn a commission if the visitor buys the item they added to their shopping cart instead of the usual cookie length of 24 hours"
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:70
+msgid "I want EasyAzon to cloak my links"
+msgstr ""
+
+#: addition/components/settings-sections/links/links.php:79
+msgid "I want EasyAzon to display information popups when visitors hover over product text links"
+msgstr ""
+
+#: addition/components/settings-sections/localization/localization.php:41
+msgid "Link Localization"
+msgstr ""
+
+#: addition/components/settings-sections/localization/localization.php:71
+msgid "I want EasyAzon links to be localized where possible"
+msgstr ""
+
+#: addition/components/settings-sections/localization/localization.php:72
+msgid "Automatically change your Amazon affiliate links to match the country a visitor is viewing your website from, allowing you to earn commissions on traffic that you would otherwise miss out on"
+msgstr ""
+
+#: addition/components/settings-sections/localization/localization.php:73
+msgid "For Example"
+msgstr ""
+
+#: addition/components/settings-sections/localization/localization.php:73
+msgid "If you create an affiliate link for the Xbox One product in the United States a visitor from the United Kingdom will be taken to the product search results page for \"Xbox One\" on Amazon.co.uk"
+msgstr ""
+
+#: addition/components/settings-sections/localization/views/section.php:3
+msgid "This product includes GeoLite2 data created by MaxMind, available from <a href=\"http://www.maxmind.com\">http://www.maxmind.com</a>."
+msgstr ""
+
+#: addition/components/settings/settings.php:35
+msgid "<p><strong>Do you want to make the most of EasyAzon? Take our <a href=\"%s\" target=\"_blank\">free Amazon course</a> to increase your site's earnings today!</strong></p>"
+msgstr ""
+
+#: addition/components/shortcodes/info-block/templates/attributes.php:23
+#: addition/components/shortcodes/info-block/templates/image.php:47
+msgid "Prices are accurate as of %1$s. Product prices and availability are subject to change. Any price and availablility information displayed on Amazon at the time of purchase will apply to the purchase of any products."
+msgstr ""
+
+#: addition/components/shortcodes/info-block/templates/attributes.php:23
+#: addition/components/shortcodes/info-block/templates/image.php:47
+msgid "Price Disclaimer"
+msgstr ""
+
+#: addition/components/shortcodes/info-block/templates/image.php:31
+msgid "Price"
+msgstr ""
+
+#: addition/components/shortcodes/info-block/templates/image.php:35
+msgid "You Save"
+msgstr ""
+
+#: addition/lib/amazon.php:328
+msgid "Average Customer Reviews"
+msgstr ""
+
+#: addition/lib/amazon.php:332
+msgid "Featured Items"
+msgstr ""
+
+#: addition/lib/amazon.php:336
+msgid "Newest Arrivals"
+msgstr ""
+
+#: addition/lib/amazon.php:340
+msgid "Price: High to Low"
+msgstr ""
+
+#: addition/lib/amazon.php:344
+msgid "Price: Low to High"
+msgstr ""
+
+#: addition/lib/amazon.php:348
+msgid "Relevance"
+msgstr ""
+
+#: components/about/about.php:39
+#: components/about/views/about.php:2
+msgid "EasyAzon - Free Amazon Course"
+msgstr ""
+
+#: components/about/about.php:39
+msgid "Free Amazon Course"
+msgstr ""
+
+#: components/about/views/about.php:5
+msgid "Want to earn more on Amazon today? Sign up for our free course to get the information you need to turn your site into a money maker!"
+msgstr ""
+
+#: components/about/views/about.php:36
+msgid "Module 1:"
+msgstr ""
+
+#: components/about/views/about.php:36
+msgid "What goes into a successful Amazon Associate Site"
+msgstr ""
+
+#: components/about/views/about.php:38
+msgid "Module 2:"
+msgstr ""
+
+#: components/about/views/about.php:38
+msgid "Selecting a Niche"
+msgstr ""
+
+#: components/about/views/about.php:40
+msgid "Module 3:"
+msgstr ""
+
+#: components/about/views/about.php:40
+msgid "Setting up your website"
+msgstr ""
+
+#: components/about/views/about.php:42
+msgid "Module 4:"
+msgstr ""
+
+#: components/about/views/about.php:42
+msgid "Learning the basics of WordPress"
+msgstr ""
+
+#: components/about/views/about.php:44
+msgid "Module 5:"
+msgstr ""
+
+#: components/about/views/about.php:44
+msgid "Setting up your Amazon Associates Account"
+msgstr ""
+
+#: components/about/views/about.php:46
+msgid "Module 6:"
+msgstr ""
+
+#: components/about/views/about.php:46
+msgid "How to create content for your site"
+msgstr ""
+
+#: components/about/views/about.php:48
+msgid "Module 7:"
+msgstr ""
+
+#: components/about/views/about.php:48
+msgid "Getting traffic to your website"
+msgstr ""
+
+#: components/about/views/about.php:50
+msgid "Module 8:"
+msgstr ""
+
+#: components/about/views/about.php:50
+msgid "Tips and strategies to maximize your Amazon earnings‏"
+msgstr ""
+
+#: components/editor/editor.php:49
+msgid "Link to Amazon"
+msgstr ""
+
+#: components/hooks/hooks.php:50
+msgid "<p>We hope you're enjoying <strong>EasyAzon</strong>! Could you please do us a BIG favor and give it a 5-star rating on Wordpress to help us spread the word and boost our motivation?</p>"
+msgstr ""
+
+#: components/hooks/hooks.php:53
+#: components/hooks/hooks.php:54
+msgid "Sure, you deserved it"
+msgstr ""
+
+#: components/hooks/hooks.php:55
+msgid "I already did"
+msgstr ""
+
+#: components/hooks/hooks.php:57
+msgid "Maybe later"
+msgstr ""
+
+#: components/hooks/hooks.php:58
+msgid "I don't want to leave a review"
+msgstr ""
+
+#: components/hooks/hooks.php:109
+#: components/hooks/hooks.php:116
+msgid "You don't have permission to do that."
+msgstr ""
+
+#: components/popup-states-additions/views/link-form-upgrade-prompt.php:4
+#: components/settings-sections/upgrade/views/section.php:20
+msgid "Automated link cloaking"
+msgstr ""
+
+#: components/popup-states-additions/views/link-form-upgrade-prompt.php:5
+msgid "Product pop ups (display product info via pop up box)"
+msgstr ""
+
+#: components/popup-states-additions/views/link-form-upgrade-prompt.php:6
+#: components/settings-sections/upgrade/views/section.php:21
+msgid "Add to cart functionality (increase cookie length - more time to earn commissions)"
+msgstr ""
+
+#: components/popup-states-additions/views/link-form-upgrade-prompt.php:7
+#: components/settings-sections/upgrade/views/section.php:22
+msgid "Link localization (earn commissions from previously wasted global traffic by automatically converting affiliate links to match the location your website is being visited from: e.g. UK visitors see Amazon.co.uk links)"
+msgstr ""
+
+#: components/popup-states-additions/views/link-form-upgrade-prompt.php:8
+#: components/settings-sections/upgrade/views/section.php:23
+msgid "Support for multiple affiliate tracking IDs"
+msgstr ""
+
+#: components/popup-states/link/link.php:45
+msgid "Text Link"
+msgstr ""
+
+#: components/popup-states/link/views/state.php:2
+msgid "Link Options"
+msgstr ""
+
+#: components/popup-states/search/search.php:55
+#: lib/amazon.php:97
+msgid "Title"
+msgstr ""
+
+#: components/popup-states/search/views/state.php:2
+msgid "Search Options"
+msgstr ""
+
+#: components/popup-states/search/views/state.php:12
+msgid "Search Keywords or ASIN"
+msgstr ""
+
+#: components/popup-states/search/views/state.php:38
+#: components/settings-sections/search/search.php:40
+msgid "Search"
+msgstr ""
+
+#: components/popup-states/search/views/state.php:56
+#: components/popup-states/search/views/state.php:100
+msgid "products"
+msgstr ""
+
+#: components/popup-states/search/views/state.php:91
+msgid "No products were found"
+msgstr ""
+
+#: components/pro-check/pro-check.php:48
+msgid "Your current version of EasyAzon Pro is out-of-date and may cause conflicts on your site. Please upgrade to <a href=\"https://easyazon.com/v4upgrade/\" target=\"_blank\">Version 4 of EasyAzon Pro</a> or <a href=\"https://downloads.wordpress.org/plugin/easyazon.3.0.8.zip\" target=\"_blank\">download Version 3 of EasyAzon Core</a> to keep using Version 3 of EasyAzon Pro."
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:40
+msgid "Amazon Associates"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:42
+#: lib/amazon.php:140
+msgid "United States"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:46
+#: lib/amazon.php:141
+msgid "Australia"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:50
+#: lib/amazon.php:142
+msgid "Brazil"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:54
+#: lib/amazon.php:143
+msgid "Canada"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:58
+#: lib/amazon.php:144
+msgid "China"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:62
+#: lib/amazon.php:145
+msgid "France"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:66
+#: lib/amazon.php:146
+msgid "Germany"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:70
+#: lib/amazon.php:148
+msgid "India"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:74
+#: lib/amazon.php:147
+msgid "Italy"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:78
+#: lib/amazon.php:149
+msgid "Japan"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:82
+#: lib/amazon.php:152
+msgid "Mexico"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:86
+#: lib/amazon.php:153
+msgid "Netherlands"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:90
+#: lib/amazon.php:154
+msgid "Poland"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:94
+#: lib/amazon.php:155
+msgid "Singapore"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:98
+#: lib/amazon.php:156
+msgid "Saudi Arabia"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:102
+#: lib/amazon.php:157
+msgid "Sweden"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:106
+#: lib/amazon.php:158
+msgid "Turkey"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:110
+#: lib/amazon.php:159
+msgid "United Arab Emirates"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:114
+#: lib/amazon.php:150
+msgid "Spain"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:118
+#: lib/amazon.php:151
+msgid "United Kingdom"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:136
+#: components/settings-sections/associates/associates.php:141
+#: components/settings-sections/associates/associates.php:145
+#: components/settings-sections/associates/associates.php:149
+#: components/settings-sections/associates/associates.php:153
+#: components/settings-sections/associates/associates.php:157
+#: components/settings-sections/associates/associates.php:161
+#: components/settings-sections/associates/associates.php:165
+#: components/settings-sections/associates/associates.php:170
+#: components/settings-sections/associates/associates.php:174
+#: components/settings-sections/associates/associates.php:178
+#: components/settings-sections/associates/associates.php:182
+#: components/settings-sections/associates/associates.php:186
+#: components/settings-sections/associates/associates.php:190
+#: components/settings-sections/associates/associates.php:194
+#: components/settings-sections/associates/associates.php:198
+#: components/settings-sections/associates/associates.php:202
+#: components/settings-sections/associates/associates.php:206
+#: components/settings-sections/associates/associates.php:210
+#: components/settings-sections/associates/associates.php:214
+msgid "Sign up"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:137
+#: components/settings-sections/associates/associates.php:166
+msgid "Note:"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:137
+msgid "Amazon Australia requires 3 orders via your affiliate link before you can request access to the Product Advertising API"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:166
+msgid "You must be a resident of India to join this country's affiliate program"
+msgstr ""
+
+#: components/settings-sections/associates/associates.php:215
+msgid "(i.e. yourtrackingid-20"
+msgstr ""
+
+#: components/settings-sections/associates/views/section.php:1
+msgid "Enter your Amazon Associates Tracking IDs below. Not sure where to find these? <a href=\"%s\" target=\"_blank\">Watch our videos here</a>."
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:45
+msgid "Credentials"
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:47
+msgid "Access Key ID"
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:51
+msgid "Secret Access Key"
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:66
+#: components/settings-sections/credentials/credentials.php:87
+msgid "Warning!"
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:66
+msgid "You must provide your Amazon credentials. Requests cannot be made at this time."
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:87
+msgid "One or more configured locales encountered an error while making a test request."
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:87
+msgid "Click here for help."
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:104
+msgid "You have defined this value in your <code>wp-config.php</code> file with the <code>EASYAZON_ACCESS_KEY</code> constant"
+msgstr ""
+
+#: components/settings-sections/credentials/credentials.php:112
+msgid "You have defined this value in your <code>wp-config.php</code> file with the <code>EASYAZON_SECRET_KEY</code> constant"
+msgstr ""
+
+#: components/settings-sections/credentials/views/section.php:9
+msgid "<a href=\"%s\" target=\"_blank\">Watch this video</a> showing how to set up your Access Key ID and Secret Access Key from Amazon. If you've already watched the video, please visit your <a href=\"%s\" target=\"_blank\">AWS Account Management page</a> to retrieve your keys. These keys are required in order to send requests to Amazon and retrieve data about products and listings."
+msgstr ""
+
+#: components/settings-sections/credentials/views/section.php:11
+msgid "Important"
+msgstr ""
+
+#: components/settings-sections/credentials/views/section.php:11
+msgid "With the new version of the Amazon Product Advertising API, you must ensure that you have a valid Amazon Tracking ID for each locale that you wish to make requests to."
+msgstr ""
+
+#: components/settings-sections/links/links.php:41
+msgid "Defaults"
+msgstr ""
+
+#: components/settings-sections/links/links.php:66
+msgid "I want EasyAzon links to open in a new window or tab by default"
+msgstr ""
+
+#: components/settings-sections/links/links.php:71
+msgid "I want the <code>nofollow</code> attribute applied to EasyAzon links by default"
+msgstr ""
+
+#: components/settings-sections/links/views/section.php:1
+msgid "The following settings represent the defaults for links on your site. You can also configure the settings for each link on your site individually."
+msgstr ""
+
+#: components/settings-sections/search/search.php:42
+msgid "Default Search Locale"
+msgstr ""
+
+#: components/settings-sections/search/views/section.php:1
+msgid "Please set your default search locale using the option below. When you use EasyAzon the links you create will default to this location so if most of your visitors come from the United States for example, you would set your default locale to United States."
+msgstr ""
+
+#: components/settings-sections/upgrade/upgrade.php:40
+msgid "How to Earn More from Amazon"
+msgstr ""
+
+#: components/settings-sections/upgrade/upgrade.php:58
+msgid "day"
+msgstr ""
+
+#: components/settings-sections/upgrade/upgrade.php:59
+msgid "days"
+msgstr ""
+
+#: components/settings-sections/upgrade/upgrade.php:60
+msgid "month"
+msgstr ""
+
+#: components/settings-sections/upgrade/upgrade.php:61
+msgid "months"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:2
+msgid "Can link localization pay for EasyAzon Pro?"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:4
+msgid "What are your average monthly earnings from Amazon?"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:7
+msgid "What percentage of traffic comes from your dominant country?"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:14
+msgid "You're losing <strong>$<span id=\"easyazon-localization-calculator-lost\">0</span></strong> every month from international traffic. EasyAzon Pro will pay for itself in only <strong><span id=\"easyazon-localization-calculator-period\">1</span> <span id=\"easyazon-localization-calculator-unit\">month</span></strong>."
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:17
+msgid "Unlock these extra link options with EasyAzon Pro - <a href=\"%s\" target=\"_blank\">Upgrade Today!</a></p>"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:26
+msgid "Unlock these extra link types with EasyAzon Pro - <a href=\"%s\" target=\"_blank\">Upgrade Today!</a></p>"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:29
+msgid "Product images"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:30
+msgid "Product information block - includes product title, thumbnail, pricing, and a call to action"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:31
+msgid "Buy on Amazon buttons - locale specific"
+msgstr ""
+
+#: components/settings-sections/upgrade/views/section.php:32
+msgid "Link to search results for a specific term"
+msgstr ""
+
+#: components/settings/settings.php:60
+msgid "EasyAzon - Settings"
+msgstr ""
+
+#: components/settings/settings.php:60
+msgid "Settings"
+msgstr ""
+
+#: components/settings/views/settings.php:11
+msgid "Having trouble using EasyAzon? <a href=\"%s\" target=\"_blank\">Watch step-by-step video tutorials.</a>"
+msgstr ""
+
+#: components/settings/views/settings.php:36
+msgid "Do You Enjoy our Plugin?"
+msgstr ""
+
+#: components/settings/views/settings.php:38
+msgid "It would be great if you <strong>do us a big favor and give us a review</strong> for our plugin."
+msgstr ""
+
+#: components/settings/views/settings.php:39
+msgid "This will help us to make others aware of our plugin and we can continue to provide it with great features in long term."
+msgstr ""
+
+#: components/settings/views/settings.php:41
+msgid "Submit a review"
+msgstr ""
+
+#: easyazon.php:176
+msgid "EasyAzon %s requires at least of PHP %s. Please upgrade your PHP installation."
+msgstr ""
+
+#: lib/amazon.php:28
+msgid "Actor"
+msgstr ""
+
+#: lib/amazon.php:29
+msgid "Artist"
+msgstr ""
+
+#: lib/amazon.php:30
+msgid "Aspect Ratio"
+msgstr ""
+
+#: lib/amazon.php:31
+msgid "Audience Rating"
+msgstr ""
+
+#: lib/amazon.php:32
+msgid "Audio Format"
+msgstr ""
+
+#: lib/amazon.php:33
+msgid "Author"
+msgstr ""
+
+#: lib/amazon.php:34
+msgid "Binding"
+msgstr ""
+
+#: lib/amazon.php:35
+msgid "Brand"
+msgstr ""
+
+#: lib/amazon.php:36
+msgid "Category"
+msgstr ""
+
+#: lib/amazon.php:37
+msgid "CERO Age Rating"
+msgstr ""
+
+#: lib/amazon.php:38
+msgid "Clothing Size"
+msgstr ""
+
+#: lib/amazon.php:39
+msgid "Color"
+msgstr ""
+
+#: lib/amazon.php:40
+msgid "Creator"
+msgstr ""
+
+#: lib/amazon.php:41
+msgid "Department"
+msgstr ""
+
+#: lib/amazon.php:42
+msgid "Director"
+msgstr ""
+
+#: lib/amazon.php:43
+msgid "EAN"
+msgstr ""
+
+#: lib/amazon.php:44
+msgid "Edition"
+msgstr ""
+
+#: lib/amazon.php:45
+msgid "EISBN"
+msgstr ""
+
+#: lib/amazon.php:46
+msgid "Episode Sequence"
+msgstr ""
+
+#: lib/amazon.php:47
+msgid "ESRB Age Rating"
+msgstr ""
+
+#: lib/amazon.php:48
+msgid "Feature"
+msgstr ""
+
+#: lib/amazon.php:49
+msgid "Format"
+msgstr ""
+
+#: lib/amazon.php:50
+msgid "Genre"
+msgstr ""
+
+#: lib/amazon.php:51
+msgid "Hardware Platform"
+msgstr ""
+
+#: lib/amazon.php:52
+msgid "Hazardous Material Type"
+msgstr ""
+
+#: lib/amazon.php:53
+msgid "Is Adult Product"
+msgstr ""
+
+#: lib/amazon.php:54
+msgid "Is Autographed"
+msgstr ""
+
+#: lib/amazon.php:55
+msgid "ISBN"
+msgstr ""
+
+#: lib/amazon.php:56
+msgid "Is Eligible For Trade In"
+msgstr ""
+
+#: lib/amazon.php:57
+msgid "Is Memorabilia"
+msgstr ""
+
+#: lib/amazon.php:58
+msgid "Issues Per Year"
+msgstr ""
+
+#: lib/amazon.php:59
+msgid "Item Dimensions"
+msgstr ""
+
+#: lib/amazon.php:60
+msgid "Height"
+msgstr ""
+
+#: lib/amazon.php:61
+msgid "Length"
+msgstr ""
+
+#: lib/amazon.php:62
+msgid "Weight"
+msgstr ""
+
+#: lib/amazon.php:63
+msgid "Width"
+msgstr ""
+
+#: lib/amazon.php:65
+msgid "Label"
+msgstr ""
+
+#: lib/amazon.php:66
+msgid "Languages"
+msgstr ""
+
+#: lib/amazon.php:67
+msgid "Legal Disclaimer"
+msgstr ""
+
+#: lib/amazon.php:69
+msgid "Manufacturer"
+msgstr ""
+
+#: lib/amazon.php:70
+msgid "Manufacturer Maximum Age"
+msgstr ""
+
+#: lib/amazon.php:71
+msgid "Manufacturer Minimum Age"
+msgstr ""
+
+#: lib/amazon.php:72
+msgid "Manufacturer Parts Warranty Description"
+msgstr ""
+
+#: lib/amazon.php:73
+msgid "Media Type"
+msgstr ""
+
+#: lib/amazon.php:74
+msgid "Model"
+msgstr ""
+
+#: lib/amazon.php:75
+msgid "MPN"
+msgstr ""
+
+#: lib/amazon.php:76
+msgid "Number Of Discs"
+msgstr ""
+
+#: lib/amazon.php:77
+msgid "Number Of Issues"
+msgstr ""
+
+#: lib/amazon.php:78
+msgid "Number Of Items"
+msgstr ""
+
+#: lib/amazon.php:79
+msgid "Number Of Pages"
+msgstr ""
+
+#: lib/amazon.php:80
+msgid "Number Of Tracks"
+msgstr ""
+
+#: lib/amazon.php:81
+msgid "Operating System"
+msgstr ""
+
+#: lib/amazon.php:82
+msgid "Package Quantity"
+msgstr ""
+
+#: lib/amazon.php:83
+msgid "Part Number"
+msgstr ""
+
+#: lib/amazon.php:84
+msgid "Platform"
+msgstr ""
+
+#: lib/amazon.php:85
+msgid "Product Group"
+msgstr ""
+
+#: lib/amazon.php:86
+msgid "Product Type Subcategory"
+msgstr ""
+
+#: lib/amazon.php:87
+msgid "Publication Date"
+msgstr ""
+
+#: lib/amazon.php:88
+msgid "Publisher"
+msgstr ""
+
+#: lib/amazon.php:89
+msgid "Region Code"
+msgstr ""
+
+#: lib/amazon.php:90
+msgid "Release Date"
+msgstr ""
+
+#: lib/amazon.php:91
+msgid "Running Time"
+msgstr ""
+
+#: lib/amazon.php:92
+msgid "Seikodo Product Code"
+msgstr ""
+
+#: lib/amazon.php:93
+msgid "Size"
+msgstr ""
+
+#: lib/amazon.php:94
+msgid "SKU"
+msgstr ""
+
+#: lib/amazon.php:95
+msgid "Studio"
+msgstr ""
+
+#: lib/amazon.php:96
+msgid "Subscription Length"
+msgstr ""
+
+#: lib/amazon.php:98
+msgid "Trade In Value"
+msgstr ""
+
+#: lib/amazon.php:99
+msgid "UPC"
+msgstr ""
+
+#: lib/amazon.php:100
+msgid "Warranty"
+msgstr ""
+
+#: lib/amazon.php:101
+msgid "WEEETaxValue"
+msgstr ""
+
+#: lib/amazon.php:416
+msgid "Item identifiers must be provided"
+msgstr ""
+
+#: lib/amazon.php:446
+msgid "A search phrase must be provided"
+msgstr ""
+
+#: lib/amazon.php:519
+msgid "Unknown error."
+msgstr ""
+
+#: lib/amazon.php:523
+msgid " See rate limits at https://webservices.amazon.com/paapi5/documentation/troubleshooting/api-rates.html"
+msgstr ""
+
+#: lib/utility.php:17
+msgid "EasyAzon could not redirect to %s with code %s"
+msgstr ""

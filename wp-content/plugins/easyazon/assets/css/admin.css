@@ -1,0 +1,17 @@
+#easyazon-notice-review ul li {
+	display: inline-block;
+}
+#easyazon-notice-review ul li a {
+	display: block;
+	padding: 10px 20px;
+}
+#easyazon-notice-review ul li a.review-btn {
+	height: auto;
+}
+#easyazon-settings-wrap #post-body.columns-2 {
+	padding: 0;
+    margin-right: 300px;
+}
+#easyazon-settings-wrap #main-card-holder {
+    max-width: none;
+}
